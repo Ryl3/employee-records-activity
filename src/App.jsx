@@ -21,8 +21,8 @@ const App = () => {
       salary: 30000,
       status: "Active",
     },
-    { name: "Rodel Celis", position: "Developer", status: "Not Active" },
-    { name: "Jei Navarro", position: "Manager", status: "Not Active" },
+    { name: "Ben", position: "Developer", status: "Not Active" },
+    { name: "Gwen", position: "Manager", status: "Not Active" },
     {
       name: "David",
       position: "Manager",
